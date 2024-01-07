@@ -19,7 +19,7 @@ SAS Miner: Perform SMMA
 Models are built usingg right clcik->add nodes -> Models
 
 # Talend Integration-
-Use Inputdelimited to input csv, use tmap to combine and outputdelimited to output
+Use "FileInputDelimited" to input csv, use tmap to combine and "tFileOutputDelimited" to output
 
 # Talend_Prep-
 Use fill missing values to handle missing values. Use search and replace to replace data inconsistency
