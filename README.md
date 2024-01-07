@@ -16,16 +16,16 @@ Talend_preparation: Clean dataset
 SAS Miner: Perform SMMA
 
 # SAS-
-Models are built usingg right clcik->add nodes -> Models
+Models are built usingg right clcik-> add nodes -> Models
 
 # Talend Integration-
-Use "FileInputDelimited" to input csv, use tmap to combine and "tFileOutputDelimited" to output
+Use "FileInputDelimited" to input csv, use "tMap" to combine and "tFileOutputDelimited" to output
 
 # Talend_Prep-
-Use fill missing values to handle missing values. Use search and replace to replace data inconsistency
+Use "fill missing values with..." to handle missing values. Use "Search and Replace" to replace data inconsistency
 
 # Results & Discussion-
-Gradient Boosting is better. Business must focus on cashback amount, services and delivery time.
+Gradient Boosting is best comapred with Decision Tree and Random Forest. Business must focus on cashback amount, services and delivery time.
 
 # Refelction-
 Learn how to apply 3 tools and ML to slove pratical issues
