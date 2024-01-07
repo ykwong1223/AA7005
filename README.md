@@ -28,4 +28,4 @@ Use "fill missing values with..." to handle missing values. Use "Search and Repl
 Gradient Boosting is best comapred with Decision Tree and Random Forest. Business must focus on cashback amount, services and delivery time.
 
 # Refelction-
-Learn how to apply 3 tools and ML to slove pratical issues
+Learn how to apply 3 tools and ML to slove pratical issues. Challenges are the dataste is unbalanced.
