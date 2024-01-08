@@ -1,5 +1,6 @@
 # Project overview-
 Objective: Predict customer churn in e-commerce platform using folloeing 3 tools and Machine Learning.
+
 Dataset: Obtained from Kaggle.
 Talend_Integration: Integrate Datasets
 Talend_preparation: Clean dataset
