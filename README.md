@@ -1,3 +1,10 @@
+# Project overview-
+Objective: Predict customer churn in e-commerce platform using folloeing 3tools and Machine Learning.
+Dataset is obtained from Kaggle.
+Talend_Integration: Integrate Datasets
+Talend_preparation: Clean dataset
+SAS Miner: Perform Sample, Modify, Model and Assessment
+
 # Basic Flow-
 churn_1.csv and churn_2.csv are my raw files. They are integrated uisng OngYiKwong_S2181260_talend_integration_0.1.properties.
 
@@ -9,14 +16,11 @@ Then OngYiKwong_S2181260_talend_prep.json is used to produce em_save_TRAIN PREPA
 
 Then OngYiKwong_S2181260_sas.xml is used again.
 
-# Project overview-
-Objective: Predict customer churn in e-commerce platform
-Talend_Integration: Integrate Datasets
-Talend_preparation: Clean dataset
-SAS Miner: Perform SMMA
-
 # SAS-
-Models are built usingg right clcik-> add nodes -> Models
+Sample right click-> add nodes -> Sample
+Explore right click-> add nodes -> StatExplore/GraphExplore
+Models right clcik-> add nodes -> Models
+
 
 # Talend Integration-
 Use "FileInputDelimited" to input csv, use "tMap" to combine and "tFileOutputDelimited" to output
