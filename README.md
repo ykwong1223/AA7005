@@ -33,7 +33,7 @@ Assessment right click -> add nodes -> Models Comparison
 Use "FileInputDelimited" to input csv, use "tMap" to combine and "tFileOutputDelimited" to output
 
 # Talend_Prep-
-Use "fill missing values with..." to handle missing values. Use "Search and Replace" to replace data inconsistency
+Use "fill missing values with..." to handle missing values. Use "Search and Replace" to replace inconsistent data
 
 # Results & Discussion-
 Gradient Boosting is the best prediction model comapred to Decision Tree and Random Forest. E-commerce business must focus on their cashback amount, services and delivery time.
