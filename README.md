@@ -36,7 +36,7 @@ Use "FileInputDelimited" to input csv, use "tMap" to combine and "tFileOutputDel
 Use "fill missing values with..." to handle missing values. Use "Search and Replace" to replace data inconsistency
 
 # Results & Discussion-
-Gradient Boosting is best comapred with Decision Tree and Random Forest. Business must focus on cashback amount, services and delivery time.
+Gradient Boosting is the best prediction model comapred to Decision Tree and Random Forest. E-commerce business must focus on their cashback amount, services and delivery time.
 
 # Refelction-
-Learn how to apply 3 tools and ML to slove pratical issues. Challenges are the dataset is unbalanced.
+Learn how to apply 3 tools and Machien Learning to slove pratical issues. Challenges are the dataset is unbalanced. Methods like SMOTE can applied to further improve performance.
