@@ -2,8 +2,11 @@
 Objective: Predict customer churn in e-commerce platform using folloeing 3 tools and Machine Learning.
 
 Dataset: Obtained from Kaggle.
+
 Talend_Integration: Integrate Datasets
+
 Talend_preparation: Clean dataset
+
 SAS Miner: Perform Sample, Modify, Model and Assessment
 
 # Basic Flow-
@@ -19,9 +22,12 @@ Then OngYiKwong_S2181260_sas.xml is used again.
 
 # SAS-
 Sample right click-> add nodes -> Sample
+
 Explore right click-> add nodes -> StatExplore/GraphExplore
+
 Models right clcik-> add nodes -> Models
 
+Assessment right click -> add nodes -> Models Comparison
 
 # Talend Integration-
 Use "FileInputDelimited" to input csv, use "tMap" to combine and "tFileOutputDelimited" to output
